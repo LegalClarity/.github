@@ -23,9 +23,6 @@
 - [⚙️ Installation](#️-installation)
 - [📖 Usage](#-usage)
 - [🤝 API Documentation](#-api-documentation)
-- [🎯 Roadmap](#-roadmap)
-- [👥 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ***
 
