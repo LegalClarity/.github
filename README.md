@@ -3,8 +3,6 @@
 > **AI-Powered Legal Document Analysis for India**  
 > *Transforming complex legal jargon into clear, actionable insights using Google Cloud AI*
 
-[![Google GenAI Exchange 2025](https://img.shields.io/badge/Google_GenAI_Exchange-2025-4285F4?style=for-the-badge&logo5](https://img.shields.io/badge/Powered_by-Gemini_2.5-FF6B6B?style=for-the-badge&logo=google Cloud](https://img.shields.io/badge/Deployed_on-Google_Cloud-4ense: MIT](https://img.shieldsBridging India's Justice Gap**
-
 **Legal Clarity** addresses India's **50.2 million pending court cases** by democratizing legal document understanding. Our platform transforms information asymmetry into empowerment, helping everyday Indians navigate rental agreements, loan contracts, and terms of service with confidence.
 
 ### ✨ **Key Highlights**
